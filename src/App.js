@@ -1,9 +1,10 @@
 import './App.css';
+import Header from './components/ui/Header';
 
-function App() {
+const App = () =>{
   return (
     <div className="container">
-      Hello
+      <Header />
     </div>
   );
 }

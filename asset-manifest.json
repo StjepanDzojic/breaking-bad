@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/breaking-bad/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/breaking-bad/static/js/main.660248ec.chunk.js",
-    "main.js.map": "/breaking-bad/static/js/main.660248ec.chunk.js.map",
-    "runtime-main.js": "/breaking-bad/static/js/runtime-main.aad1c594.js",
-    "runtime-main.js.map": "/breaking-bad/static/js/runtime-main.aad1c594.js.map",
-    "static/js/2.f410258d.chunk.js": "/breaking-bad/static/js/2.f410258d.chunk.js",
-    "static/js/2.f410258d.chunk.js.map": "/breaking-bad/static/js/2.f410258d.chunk.js.map",
-    "static/js/3.4586ed2f.chunk.js": "/breaking-bad/static/js/3.4586ed2f.chunk.js",
-    "static/js/3.4586ed2f.chunk.js.map": "/breaking-bad/static/js/3.4586ed2f.chunk.js.map",
+    "main.css": "/breaking-bad/static/css/main.840c18d9.chunk.css",
+    "main.js": "/breaking-bad/static/js/main.b97767c0.chunk.js",
+    "main.js.map": "/breaking-bad/static/js/main.b97767c0.chunk.js.map",
+    "runtime-main.js": "/breaking-bad/static/js/runtime-main.353ef3b1.js",
+    "runtime-main.js.map": "/breaking-bad/static/js/runtime-main.353ef3b1.js.map",
+    "static/js/2.6a662ef8.chunk.js": "/breaking-bad/static/js/2.6a662ef8.chunk.js",
+    "static/js/2.6a662ef8.chunk.js.map": "/breaking-bad/static/js/2.6a662ef8.chunk.js.map",
     "index.html": "/breaking-bad/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/breaking-bad/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.f410258d.chunk.js.LICENSE.txt": "/breaking-bad/static/js/2.f410258d.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/breaking-bad/static/media/logo.6ce24c58.svg"
+    "static/css/main.840c18d9.chunk.css.map": "/breaking-bad/static/css/main.840c18d9.chunk.css.map",
+    "static/js/2.6a662ef8.chunk.js.LICENSE.txt": "/breaking-bad/static/js/2.6a662ef8.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/breaking-bad/static/media/bg.085908ea.jpg",
+    "static/media/logo.e6ecab44.png": "/breaking-bad/static/media/logo.e6ecab44.png",
+    "static/media/spinner.11d9cde8.gif": "/breaking-bad/static/media/spinner.11d9cde8.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.aad1c594.js",
-    "static/js/2.f410258d.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.660248ec.chunk.js"
+    "static/js/runtime-main.353ef3b1.js",
+    "static/js/2.6a662ef8.chunk.js",
+    "static/css/main.840c18d9.chunk.css",
+    "static/js/main.b97767c0.chunk.js"
   ]
 }
